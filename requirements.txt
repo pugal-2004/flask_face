@@ -3,4 +3,4 @@ flask-cors>=4.0.1
 opencv-python==4.11.0.86
 pandas==2.3.0
 deepface==0.0.93
-tensorflow==2.15.0
+tensorflow==2.19.0
