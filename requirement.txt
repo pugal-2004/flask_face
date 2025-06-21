@@ -1,6 +1,1 @@
-Flask
-flask-cors
-opencv-python
-pandas
-deepface
-tensorflow
+
